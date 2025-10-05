@@ -64,7 +64,7 @@ The management team wants a clear view of overall **business performance and pro
 
 ### 🖼️ Dashboard Preview
 
-🖼️ *[View Full Dashboard Image](#)*
+🖼️ *[View Full Dashboard Image](https://github.com/mydeepcode/Adidas-Business-Analysis-Dashboard/blob/main/Adidas%20Business%20Analysis%20Dashboard%20(Power%20BI%20Project).png)*
 
 ---
 
